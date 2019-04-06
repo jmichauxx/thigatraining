@@ -1,0 +1,17 @@
+{ 
+	"mainCourse": {
+		"id": 12,
+		"name": "risotto",
+		"fullName":"risotto con parmigiano e funghi",
+		"ingredients":[
+			{
+				"name":"Arborio Rice"
+			},
+			{
+				"name":"Parmigiano"
+			},
+			{
+				"name":"Funghi (porcini e shitake)"
+			}
+		]
+	}
