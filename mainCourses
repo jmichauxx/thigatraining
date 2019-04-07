@@ -1,0 +1,26 @@
+[
+		{
+			"id": "5403d655c19e51e2ea3c02c0",
+			"type": "mainCourse",
+			"description": "Risotto,
+			"price": 10.5
+		},
+		{
+			"id": "5403d7e6c19e51e2ea3c02c2",
+			"type": "mainCourse",
+			"description": "Pizza",
+			"price": 4
+		},
+		{
+			"id": "5403dddd9386acbf5d3f6055",
+			"type": "mainCourse",
+			"description": "Pasta",
+			"price": 8.5
+		}
+		{
+			"id": "5403dddd9386acbf5d3f6055",
+			"type": "mainCourse",
+			"description": "Sandwich",
+			"price": 3.5
+		}
+	]
